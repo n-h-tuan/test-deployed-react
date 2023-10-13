@@ -1,5 +1,6 @@
 {
   "name": "test-deployed-app",
+  "homepage":"https://n-h-tuan.github.io/test-deployed-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
